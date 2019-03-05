@@ -1,0 +1,15 @@
+{
+  "name": "mapDataCollector",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-closure-compiler": "*",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-cssmin": "^v0.14.0",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-uglify": "^v0.11.1",
+    "grunt-ng-annotate": "^1.0.1"
+  }
+}
